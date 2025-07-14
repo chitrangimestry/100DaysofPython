@@ -13,3 +13,16 @@ print(programming_dictionary)
 for key in programming_dictionary:
     print(key)
     print(key + ": " + programming_dictionary[key])
+
+
+captials = {
+    "France" : "Paris",
+    "Germany" : "Berlin",
+    "Netherlands": "Amsterdam",
+    "Sweden": "Stockholm"
+}
+
+travel_log = {
+    "France": ["Île-de-France", "Notre-Dame", "Louvre", "Basillique du Sacre-Cœour de Montmartre"],
+    "Germany": ["Berlin", "Munich", "Hamburg", "Frankfurt am Main", "Stuttgrat"]
+}
