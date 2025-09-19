@@ -1,3 +1,5 @@
+# What is function with return values?
+
 def format_name(f_name, l_name):
     formatted_f_name = f_name.title()
     formated_l_name = l_name.title()
@@ -5,7 +7,7 @@ def format_name(f_name, l_name):
     return formated_full_name
 
 
-format_name("ChitRangi", "CHITRANGI")
+format_name("ANGELA", "angela")
 
 
 art =  '''
